@@ -4,7 +4,7 @@ You are on the github page of Anna Nguyen Than Son and Gabrie Guaquière NLP Pro
 
 In this project, we implemented a BERT model and a ROBERTA model to do Dialog Act and Emotion Sentiment classification.
 
-Here is the how we named our jupyter notebook : MODEL_DATASET_type_of_classification.ipynb 
+Here is how we named our jupyter notebooks : MODEL_DATASET_type_of_classification.ipynb 
 
 For instance :
 
@@ -13,5 +13,7 @@ For instance :
 
 
 NB : we ran our Bert model after having dowloaded the BERT uncased L12 H768 A12 in local, here is a link where you can download it : https://github.com/google-research/bert
+
+If you want to run it using our code, make sure you download bert_model.ckpt, vocab.txt and bert_config.json using https://github.com/google-research/bert
 
 Enjoy our project !
